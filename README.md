@@ -1,6 +1,12 @@
 # batchman
 A project to try batch rendering, font rendering and text batching<br>
 
+# Libraries used
+ 1.SDL
+ 2.stb_image
+ 3.stb_truetype
+ 4.glad
+
 # How to build
  1.install gcc<br>
  2.install sdl dependencies to your system<br>
