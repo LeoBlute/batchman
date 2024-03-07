@@ -1,12 +1,12 @@
 # batchman
-A project to try batch rendering, font rendering and text batching
+A project to try batch rendering, font rendering and text batching<br>
 
 # How to build
- 1.install gcc
- 2.install sdl dependencies to your system
- 3.cd into the build directory
- 4.build it as specified [here](https://wiki.libsdl.org/SDL2/FAQLinux#how_do_i_add_sdl_to_my_project) with /code/batchman.c as the source file
- 5.run ./batchman, if vsync is enabled try running it with: vblank_mode=0 ./batchman
+ 1.install gcc<br>
+ 2.install sdl dependencies to your system<br>
+ 3.cd into the build directory<br>
+ 4.build it as specified [here](https://wiki.libsdl.org/SDL2/FAQLinux#how_do_i_add_sdl_to_my_project) with /code/batchman.c as the source file<br>
+ 5.run ./batchman, if vsync is enabled try running it with: vblank_mode=0 ./batchman<br>
 
 # Screenshots
 ![Screenshot from 2024-03-07 15-39-31](https://github.com/ok4pi/voxel-gm/assets/130486459/7ce6e3ca-f7a7-4d7a-a8dc-017f60484784)
