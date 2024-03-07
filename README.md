@@ -2,10 +2,10 @@
 A project to try batch rendering, font rendering and text batching<br>
 
 # Libraries used
- 1.SDL
- 2.stb_image
- 3.stb_truetype
- 4.glad
+ 1.SDL<br>
+ 2.stb_image<br>
+ 3.stb_truetype<br>
+ 4.glad<br>
 
 # How to build
  1.install gcc<br>
