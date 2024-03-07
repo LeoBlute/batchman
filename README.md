@@ -12,7 +12,8 @@ A project to try batch rendering, font rendering and text batching
  2.install sdl dependencies to your system<br>
  3.cd into the build directory<br>
  4.build it as specified [here](https://wiki.libsdl.org/SDL2/FAQLinux#how_do_i_add_sdl_to_my_project) with /code/batchman.c as the source file<br>
- 5.run ./batchman, if vsync is enabled try running it with: vblank_mode=0 ./batchman
+ 5.build it with O1 or a higher opt-level is highly recommended
+ 6.run ./batchman, if vsync is enabled try running it with: vblank_mode=0 ./batchman
 
 # Demo-showcase
  [video](https://www.youtube.com/watch?v=EYCcaXAkPrI)
